@@ -1,6 +1,6 @@
 # Database-Practice
 
-- Project 1 - [Top 100 US BANKS](https://github.com/ChangyuYan/Database-Practice/tree/master/Top-100-US-Banks)
+- Project 1 - [Top 100 US Banks](https://github.com/ChangyuYan/Database-Practice/tree/master/Top-100-US-Banks)
 
 - Project 2 - [Counting Emails in an Organization](https://github.com/ChangyuYan/Database-Practice/tree/master/Counting-Emails-In-An-Organization)
 
