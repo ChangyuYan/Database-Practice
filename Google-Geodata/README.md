@@ -5,6 +5,11 @@ My Results:
 1. Results of `python geoload.py`: 
 ![Alt text](1.png?raw=true "ScreenShot")
 
+2. Results of `python geodump.py`:
+![Alt text](2.png?raw=true "ScreenShot")
+
+3. Result of added location (Victor Valley College):
+![Alt text](3.png?raw=true "ScreenShot")
 ---
 
 In this project, we are using the Google geocoding API
