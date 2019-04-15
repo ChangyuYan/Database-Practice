@@ -10,4 +10,4 @@
 
 - Project 5 - [Google Geodata](https://github.com/ChangyuYan/Database-Practice/tree/master/Google-Geodata)
 
-Credit: Project 2, 3, 4, 5 are assignments from the Coursera Course I took, [Using Databases with Python](https://www.coursera.org/learn/python-databases) by University of Michigan. 
+Credit: Project 2 to 5 are assignments from the Coursera Course I took, [Using Databases with Python](https://www.coursera.org/learn/python-databases) by University of Michigan. 
